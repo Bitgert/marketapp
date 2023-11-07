@@ -1,0 +1,8 @@
+[{
+    "title": "Brise Mainnet",
+    "url": "https://brisescan.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/brise-logo.svg",
+    "isActive": true
+}
+]
